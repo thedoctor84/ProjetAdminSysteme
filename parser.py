@@ -9,4 +9,10 @@ stre = page.read()
 
 soup = BeautifulSoup(stre,"lxml" )
 
-print(soup.get_text())
+#print(soup.item.text)
+
+#print soup.find_all('title')
+
+res = str(soup.find_all('title')).split('<title>')
+
+print res[2].split('</title>')[0]
