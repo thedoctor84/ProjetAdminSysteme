@@ -9,6 +9,7 @@ if __name__ == '__main__':
 	total,available,percent,used,free,active,inactive,buffers,cache = a.split(',')
 	z,pour_mem = percent.split('=')
 
+
 	b = str(psutil.disk_usage('/home'))
 	d,f,g,h = b.split(',')
 	d,v = g.split('=')
