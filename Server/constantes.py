@@ -6,4 +6,4 @@
 CPU_ALERTE = 90 # pourcentage cpu a partir duquel un mail est envoye a l'admin
 MEM_ALERTE = 80 # pourcentage memoire a partir duquel un mail est envoye a l'admin
 MAILALRT = 'aureliencottin84@gmail.com' # mail à qui envoyer l'alerte
-DATE = 20 #nb de jour de donnée à conserver
+DATE = 20 #nb de valeur de donnée à conserver
