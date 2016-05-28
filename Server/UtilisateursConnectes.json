@@ -1,12 +1,12 @@
 {
-	"info_nombre_utilisateurs":[
-		[
-			"dimanche 22 mai 2016, 15:41:23 (UTC+0200)", 
-          1
-		]
-		,[
-			"dimanche 22 mai 2016, 15:41:24 (UTC+0200)", 
-          1
-		]
-	]
+    "info_nombre_utilisateurs": [
+        [
+            "dimanche 22 mai 2016, 15:41:23 (UTC+0200)",
+            1
+        ],
+        [
+            "dimanche 22 mai 2016, 15:41:24 (UTC+0200)",
+            1
+        ]
+    ]
 }
